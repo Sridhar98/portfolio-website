@@ -1,77 +1,43 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+role: Seeking ML roles where I can grow and create an impact
+avatar_filename: 20210711_160910.jpg
+bio: My research interests include distributed robotics, mobile computing and
+  programmable matter.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Deep Learning
+  - Computer Vision
+  - Natural Language Processing
+  - Software Development
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=Nke3VeEAAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Sridhar98
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/sridharragupathi/
+organizations: []
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
+    - course: B.Tech in Computer Science & Engineering
+      institution: National Institute of Technology Tiruchirappalli (NIT Trichy)
+      year: 2020
+superuser: true
 highlight_name: true
+title: Sridhar Suresh Ragupathi
+email: ""
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Watching [<img src="https://img.youtube.com/vi/aircAruvnKk/default.jpg">](https://www.youtube.com/watch?v=aircAruvnKk) this video as a freshman on summer break changed my life. 
+The power of deep learning and its potential to positively impact people excites me to this day.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+On my journey of exploring deep learning and its applications, I have obtained versatile experience in Computer Vision and Natural Language Processing through both research and industry roles. Previously, I was a NLP Engineer at LimeChat, boosting sales and automating customer support for D2C brands by developing new features for India's first Level 3 AI chatbot.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I graduated from NIT Trichy with a Bachelors in Computer Science and Engineering. Through my undergraduate years, I was fortunate to have the able guidance of bright minds such as [Prof. Liming Chen](https://sites.google.com/view/limingchen/accueil), [Prof. CV Jawahar](https://faculty.iiit.ac.in/~jawahar/), [Prof. Vinay Namboodiri](https://vinaypn.github.io/). I am grateful for receiving the [Charpak Lab Scholarship](https://www.inde.campusfrance.org/charpak-lab-scholarship) which enabled me to pursue a research internship in France and the [SPDC scholarship](https://mea.gov.in/spdc.htm) which funded part of my undergraduate education.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
