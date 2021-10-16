@@ -1,6 +1,6 @@
 ---
 role: Seeking ML roles where I can grow and create an impact
-avatar_filename: 20210711_160910.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -33,7 +33,8 @@ title: Sridhar Suresh Ragupathi
 email: ""
 ---
 
-Watching [<img src="https://img.youtube.com/vi/aircAruvnKk/default.jpg">](https://www.youtube.com/watch?v=aircAruvnKk) this video as a freshman on summer break changed my life. 
+[<img src="https://img.youtube.com/vi/aircAruvnKk/default.jpg">](https://www.youtube.com/watch?v=aircAruvnKk)
+Watching  this video as a freshman on summer break changed my life. 
 The power of deep learning and its potential to positively impact people excites me to this day.
 
 On my journey of exploring deep learning and its applications, I have obtained versatile experience in Computer Vision and Natural Language Processing through both research and industry roles. Previously, I was a NLP Engineer at LimeChat, boosting sales and automating customer support for D2C brands by developing new features for India's first Level 3 AI chatbot.
