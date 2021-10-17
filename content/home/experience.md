@@ -22,28 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+  - title: NLP Engineer
+    company: LimeChat
+    company_url: 'https://www.limechat.ai/'
+    company_logo: limechat-logo
+    location: Bangalore
+    date_start: '2021-01-04'
+    date_end: '2021-05-25'
     description: |2-
-        Responsibilities include:
+    * Boosted sales by 6% for The Man Company - a leading D2C men’s grooming brand by designing and implementing a system to launch personalized chat re-marketing campaigns.
+
+    * Improved the chatbot’s ability to handle typos and synonyms for the product discovery quiz by creating a Part of Speech (POS) Tagging based system to obtain synonyms and typos from real user conversations with the chatbot.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: NLP Research Assistant
+    company: CVIT, IIIT Hyderabad
+    company_url: 'https://cvit.iiit.ac.in/'
+    company_logo: cvit-logo
+    location: Hyderabad
+    date_start: '2020-07-02'
+    date_end: '2020-12-25'
+    description: |2-
+    * Achieved state-of-the-art BLEU scores 19.07, 19.18 and 9.48 for English to Tamil, Urdu and Odia translation respectively and WAT20 En-Odia leaderboards rank 3 by fine-tuning a multilingual neural machine translation model.
 
 design:
   columns: '2'
