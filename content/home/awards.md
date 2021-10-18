@@ -29,7 +29,7 @@ item:
   description: 1 of 21 students from India to receive the Charpak Scholarship to pursue a research internship in France
   organization: French Embassy in India
   organization_url: https://in.ambafrance.org/
-  organization_logo: charpak-logo
+  company_logo: charpak-logo
   title: Charpak Lab Scholarship
   url: https://www.inde.campusfrance.org/charpak-lab-scholarship
 
@@ -39,7 +39,7 @@ item:
   description: "The Scholarship Programme for Diaspora Children funds part of the undergraduate education of high performing students of Non Resident Indian parents"
   organization: Ministry of External Affairs, Government of India
   organization_url: https://mea.gov.in/
-  organization_logo: spdc-logo
+  company_logo: spdc-logo
   title: SPDC Scholarship
   url: "https://spdcindia.gov.in/login/index.php"
 
