@@ -10,7 +10,7 @@ headless: true
 weight: 65
 
 title: 'Projects'
-subtitle: 'This section is not built yet. Please visit [this link](https://sites.google.com/view/sridharsuresh/projects)'
+subtitle: 'My Portfolio'
 
 
 content:
@@ -45,5 +45,5 @@ design:
   view: 2
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  flip_alt_rows: true
 ---

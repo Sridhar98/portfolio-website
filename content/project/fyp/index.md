@@ -1,6 +1,6 @@
 ---
-title: Fusion ensemble methods to imrpove object detection accuracy
-summary: Object detection finds place in real-life applications in a variety of domains ranging from agriculture to defense. Increasing detection accuracy is a step toward the use of deep learning based object detectors in safety-critical applications. We propose increasing the accuracy using statistical fusion ensemble method on the bounding box coordinates obtained from multiple object detection models, using root mean squared error as a metric. Tests on the PascalVOC 2012 dataset indicate that the statistical fusion ensemble method is optimal for 40% of the test cases, implying that the individual detectors collectively fail by the same percentage.
+title: Fusion ensemble methods to improve object detection accuracy
+summary: I worked under the supervision of Prof. Sridevi in a team of three at the Department of Computer Science and Engineering, National Institute of Technology, Tiruchirappalli on my undergraduate capstone project. The project focuses on improving object detection accuracy by using fusion ensemble methods on the bounding box coordinates.
 
 tags:
 - Deep Learning
@@ -27,3 +27,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Object detection finds place in real-life applications in a variety of domains ranging from agriculture to defense. Increasing detection accuracy is a step toward the use of deep learning based object detectors in safety-critical applications. We propose increasing the accuracy using statistical fusion ensemble method on the bounding box coordinates obtained from multiple object detection models, using root mean squared error as a metric. Tests on the PascalVOC 2012 dataset indicate that the statistical fusion ensemble method is optimal for 40% of the test cases, implying that the individual detectors collectively fail by the same percentage.
