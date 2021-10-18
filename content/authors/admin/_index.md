@@ -33,7 +33,7 @@ title: Sridhar Suresh Ragupathi
 email: ""
 ---
 
-[<img src="https://img.youtube.com/vi/aircAruvnKk/default.jpg">](https://www.youtube.com/watch?v=aircAruvnKk)
+[<img src="https://img.youtube.com/vi/aircAruvnKk/mqdefault.jpg">](https://www.youtube.com/watch?v=aircAruvnKk)
 Watching  this video as a freshman on summer break changed my life. 
 The power of deep learning and its potential to positively impact people excites me to this day.
 

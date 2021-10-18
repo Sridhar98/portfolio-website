@@ -9,8 +9,9 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
-subtitle: ''
+title: 'Projects'
+subtitle: 'This section is not built yet. Please visit [this link](https://sites.google.com/view/sridharsuresh/projects)'
+
 
 content:
   # Page type to display. E.g. project.

@@ -17,23 +17,51 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: r-project
+  icon: 'python'
   icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  name: Python
+- description: 70%
+  icon: 'brands/c++-logo'
+  icon_pack: 'custom'
+  name: C++
+- description: 90%
+  icon: 'brands/pytorch-logo'
+  icon_pack: 'custom'
+  name: PyTorch
+- description: 80%
+  icon: 'brands/bash-logo'
+  icon_pack: 'custom'
+  name: Shell Scripting
+- description: 90%
+  icon: 'brands/latex-logo'
+  icon_pack: 'custom'
+  name: LaTeX
+- description: 30%
+  icon: 'brands/docker-logo'
+  icon_pack: 'custom'
+  name: Docker
+- description: 70%
+  icon: 'brands/blender-logo'
+  icon_pack: 'custom'
+  name: Blender
+- description: 90%
+  icon: 'brands/colab-logo'
+  icon_pack: 'custom'
+  name: Google Colab
+- description: 30%
+  icon: 'brands/kubernetes-logo'
+  icon_pack: 'custom'
+  name: Kubernetes
+
+
+
+
 
 # Uncomment to use emoji icons.
-#- icon: ":smile:"
-#  icon_pack: "emoji"
-#  name: "Emojiness"
-#  description: "100%"  
+# - icon: ":smile:"
+#   icon_pack: "emoji"
+#   name: "Emojiness"
+#   description: "100%"  
 
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.
