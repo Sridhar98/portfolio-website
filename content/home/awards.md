@@ -27,9 +27,8 @@ item:
   date_end: "2019-07-01"
   date_start: "2019-05-01"
   description: 1 of 21 students from India to receive the Charpak Scholarship to pursue a research internship in France
-  organization: French Embassy in India
+  organization: CampusFrance
   organization_url: https://in.ambafrance.org/
-  organization_logo: 'brands/charpak-logo'
   title: Charpak Lab Scholarship
   url: https://www.inde.campusfrance.org/charpak-lab-scholarship
 
@@ -37,9 +36,8 @@ item:
   date_end: "2020-07-21"
   date_start: "2016-07-27"
   description: "The Scholarship Programme for Diaspora Children funds part of the undergraduate education of high performing students of Non Resident Indian parents"
-  organization: Ministry of External Affairs, Government of India
+  organization: MEA
   organization_url: https://mea.gov.in/
-  organization_logo: 'brands/spdc-logo'
   title: SPDC Scholarship
   url: "https://spdcindia.gov.in/login/index.php"
 
