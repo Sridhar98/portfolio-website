@@ -16,39 +16,39 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: ''
   icon: 'python'
   icon_pack: fab
   name: Python
-- description: 70%
+- description: ''
   icon: 'brands/c++-logo'
   icon_pack: 'custom'
   name: C++
-- description: 90%
+- description: ''
   icon: 'brands/pytorch-logo'
   icon_pack: 'custom'
   name: PyTorch
-- description: 80%
+- description: ''
   icon: 'brands/bash-logo'
   icon_pack: 'custom'
   name: Shell Scripting
-- description: 90%
+- description: ''
   icon: 'brands/latex-logo'
   icon_pack: 'custom'
   name: LaTeX
-- description: 30%
+- description: ''
   icon: 'brands/docker-logo'
   icon_pack: 'custom'
   name: Docker
-- description: 70%
+- description: ''
   icon: 'brands/blender-logo'
   icon_pack: 'custom'
   name: Blender
-- description: 90%
+- description: ''
   icon: 'brands/colab-logo'
   icon_pack: 'custom'
   name: Google Colab
-- description: 30%
+- description: ''
   icon: 'brands/kubernetes-logo'
   icon_pack: 'custom'
   name: Kubernetes
