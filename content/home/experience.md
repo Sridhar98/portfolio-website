@@ -22,6 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Data Intern
+    company: Eltropy
+    company_url: 'https://eltropy.com/'
+    company_logo: eltropy-logo
+    location: Bangalore
+    date_start: '2021-11-15'
+    date_end: '2022-07-15'
+    description: |2-
+        
+        * Forecasted text messages for Credit Unions in the US categorized by departments and message types by implementing an ML pipeline using AWS cloud services (Amazon Forecast, Amazon MWAA)
+        * Showcased KPIs for Credit Unions by designing performance optimized dashboards on AWS QuickSight and embedded the dashboards on the Eltropy application to be sold as premium insights to customers
+
+
+experience:
   - title: NLP Engineer
     company: LimeChat
     company_url: 'https://www.limechat.ai/'

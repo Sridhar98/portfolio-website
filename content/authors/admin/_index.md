@@ -24,6 +24,9 @@ social:
 organizations: []
 education:
   courses:
+    - course: MS in Professional Computer Science
+      institution: Simon Fraser University
+      year: 2022
     - course: B.Tech in Computer Science & Engineering
       institution: National Institute of Technology Tiruchirappalli (NIT Trichy)
       year: 2020

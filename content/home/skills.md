@@ -49,9 +49,9 @@ feature:
   icon_pack: 'custom'
   name: Google Colab
 - description: ''
-  icon: 'brands/kubernetes-logo'
+  icon: 'brands/aws-logo'
   icon_pack: 'custom'
-  name: Kubernetes
+  name: AWS
 
 
 
