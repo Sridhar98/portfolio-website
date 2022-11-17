@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-  - title: Data Intern
+  - title: Data Scientist
     company: Eltropy
     company_url: 'https://eltropy.com/'
     company_logo: eltropy-logo
