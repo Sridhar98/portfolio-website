@@ -21,7 +21,18 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-
+experience:
+  - title: Computer Vision Engineer Co-op
+    company: 3DM Devices
+    company_url: 'https://www.3dm.com/'
+    company_logo: 3dm-logo
+    location: Aldergrove, British Columbia
+    date_start: '2023-05-01'
+    date_end: '2023-12-20'
+    description: |2-
+        
+        * Computer vision for quality inspection of extruded rubber parts
+        
 experience:
   - title: Data Scientist
     company: Eltropy
