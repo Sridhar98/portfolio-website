@@ -10,7 +10,7 @@ design:
   background:
     image_darken: 0
 ---
-I am a grad student in Professional Computer Science at Simon Fraser University and my interests are in Deep Learning for Computer Vision and NLP. Stumbling upon [this](https://www.youtube.com/watch?v=aircAruvnKk) video on neural networks as a freshman on summer break shaped my career. 
+I am a grad student in Professional Computer Science at [Simon Fraser University](https://www.sfu.ca/) and my interests are in Deep Learning for Computer Vision and NLP. Stumbling upon [this](https://www.youtube.com/watch?v=aircAruvnKk) video on neural networks as a freshman on summer break shaped my career. 
 
 Currently, I am using Computer Vision models to inspect defects and features on tires at [3DM Devices Inc](https://www.3dm.com/). On my journey of exploring deep learning, I obtained versatile experience in Computer Vision and Natural Language Processing through both industry and research positions. In my previous stints, I was a Data Intern at [Eltropy](https://eltropy.com/), forecasting text messages for Credit Unions in the US and I was an NLP Engineer at LimeChat, boosting sales and automating customer support for D2C brands.
 

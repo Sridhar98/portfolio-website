@@ -15,6 +15,9 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
+
+  email: srsridhar.98@gmail.com
+  phone: +1 2368656698
   
   # Email form provider
   form:
