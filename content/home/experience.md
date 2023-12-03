@@ -21,7 +21,9 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+        
 experience:
+
   - title: Computer Vision Engineer Co-op
     company: 3DM Devices
     company_url: 'https://www.3dm.com/'
@@ -36,8 +38,8 @@ experience:
         * Segmented defects on tire sidewalls with an mIoU of 72.8 using DeepLabv3+ for multi-class semantic segmentation
         * Identified distorted tire beads using a rule-based system developed by feature engineering tabular data from tire scan metrics
         * Curated and annotated machine learning datasets from raw tire scans for object detection and semantic segmentation
-        
-experience:
+  
+
   - title: Data Scientist
     company: Eltropy
     company_url: 'https://eltropy.com/'
