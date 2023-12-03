@@ -31,7 +31,7 @@ experience:
     location: Aldergrove, British Columbia
     date_start: '2023-05-01'
     date_end: '2023-12-20'
-    description: |2-
+    description: |5-
         
         * Computer Vision for industrial inspection on low contrast heightmap images of tires
         * Detected barcodes on tires with an mAP of 92.8 using FasterRCNN object detector that performs 6x faster than an image processing-based detector
