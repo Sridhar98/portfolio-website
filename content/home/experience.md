@@ -31,7 +31,11 @@ experience:
     date_end: '2023-12-20'
     description: |2-
         
-        * Computer vision for quality inspection of extruded rubber parts
+        * Computer Vision for industrial inspection on low contrast heightmap images of tires
+        * Detected barcodes on tires with an mAP of 92.8 using FasterRCNN object detector that performs 6x faster than an image processing-based detector
+        * Segmented defects on tire sidewalls with an mIoU of 72.8 using DeepLabv3+ for multi-class semantic segmentation
+        * Identified distorted tire beads using a rule-based system developed by feature engineering tabular data from tire scan metrics.
+        * Curated and annotated machine learning datasets from raw tire scans for object detection and semantic segmentation
         
 experience:
   - title: Data Scientist
